@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React project, with lots of CSS customizing, was done, following [WDS' tutorial](https://www.youtube.com/watch?v=hEtZ040fsD8&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&index=8). It uses API call from [Open Trivia Database](https://opentdb.com/api_config.php).
 
 ## Available Scripts
 
